@@ -1,17 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Perfect Maze Game with Kruskal Algorithm](#perfect-maze-game-with-kruskal-algorithm)
-  - [Περιγραφή](#%CF%80%CE%B5%CF%81%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%AE)
-  - [Τέλειος Λαβύρινθος](#%CF%84%CE%AD%CE%BB%CE%B5%CE%B9%CE%BF%CF%82-%CE%BB%CE%B1%CE%B2%CF%8D%CF%81%CE%B9%CE%BD%CE%B8%CE%BF%CF%82)
-  - [Αναπαράσταση Λαβυρίνθου](#%CE%B1%CE%BD%CE%B1%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CE%BB%CE%B1%CE%B2%CF%85%CF%81%CE%AF%CE%BD%CE%B8%CE%BF%CF%85)
-  - [Αλγόριθμος Επίλυσης](#%CE%B1%CE%BB%CE%B3%CF%8C%CF%81%CE%B9%CE%B8%CE%BC%CE%BF%CF%82-%CE%B5%CF%80%CE%AF%CE%BB%CF%85%CF%83%CE%B7%CF%82)
-  - [Αλγόριθμος Κατασκευής](#%CE%B1%CE%BB%CE%B3%CF%8C%CF%81%CE%B9%CE%B8%CE%BC%CE%BF%CF%82-%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE%CF%82)
-  - [Εκτύπωση Λαβυρίνθου και Λύσης](#%CE%B5%CE%BA%CF%84%CF%8D%CF%80%CF%89%CF%83%CE%B7-%CE%BB%CE%B1%CE%B2%CF%85%CF%81%CE%AF%CE%BD%CE%B8%CE%BF%CF%85-%CE%BA%CE%B1%CE%B9-%CE%BB%CF%8D%CF%83%CE%B7%CF%82)
-  - [Eνδεικτική Εκτέλεση](#e%CE%BD%CE%B4%CE%B5%CE%B9%CE%BA%CF%84%CE%B9%CE%BA%CE%AE-%CE%B5%CE%BA%CF%84%CE%AD%CE%BB%CE%B5%CF%83%CE%B7)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Perfect Maze Game with Kruskal Algorithm
 
