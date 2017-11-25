@@ -12,7 +12,7 @@ data Maze = Maze { cells :: [(Bool, Bool)]  -- [(rightWall, downWall)]
 rand :: Int -> Int
 
 -- Returns a random integer from 0 to max-1
-rand max = unsafePerformIO $ randomRIO (0, max-1)
+rand max = unsafePerformIO $ randomRIO (0, max-1). 
 
 shuffle :: [a] -> [a]
 -- Randomly shuffles a list
